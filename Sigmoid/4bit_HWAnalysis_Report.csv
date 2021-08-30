@@ -1,0 +1,9 @@
+Circuit,Area_um_2_,Total_Power_nW_,Delay_ps__Critical_Path
+Sigmoid_Config3_Approx_100_10_4bit_A_cir0,3.762,40.714,167
+Sigmoid_Config1_Approx_100_10_4bit_C_cir0,5.13,66.719,277
+Sigmoid_Config4_Approx_100_10_4bit_C_cir0,5.472,63.738,277
+Sigmoid_Config3_Approx_100_10_4bit_A_cir11,0.684,4.484,10
+Sigmoid_Config1_Approx_100_10_4bit_A_cir0,2.736,25.801,143
+Sigmoid_Config4_Approx_100_10_4bit_A_cir0,2.736,25.816,137
+Sigmoid_Config4_Approx_100_4bit_B_cir16,4.788,43.44,245
+Sigmoid_Config1_Approx_100_10_4bit_A_cir6,3.42,25.598,183

@@ -1,0 +1,9 @@
+Circuit,Error_Count,Error_Probability,max_Absolute_error,min_Absolute_error,Standard_deviation,Hamming_distance,Mean_Absolute_error,Mean_Square_error,Mean_Relative_error,Median_Absolute_error,Mode_Absolute_error
+Sigmoid_Config3_Approx_100_10_4bit_A_cir0,0,0,0,0,0,0,0,0,0,0,0
+Sigmoid_Config1_Approx_100_10_4bit_C_cir0,0,0,0,0,0,0,0,0,0,0,0
+Sigmoid_Config4_Approx_100_10_4bit_C_cir0,0,0,0,0,0,0,0,0,0,0,0
+Sigmoid_Config3_Approx_100_10_4bit_A_cir11,1,0.0625,0.25,0,0.0625,1,0.015625,0.00390625,0.015625,0,0
+Sigmoid_Config1_Approx_100_10_4bit_A_cir0,1,0.0625,0.25,0,0.0625,1,0.015625,0.00390625,0.015625,0,0
+Sigmoid_Config4_Approx_100_10_4bit_A_cir0,1,0.0625,0.25,0,0.0625,1,0.015625,0.00390625,0.015625,0,0
+Sigmoid_Config4_Approx_100_4bit_B_cir16,1,0.0625,0.25,0,0.0625,1,0.015625,0.00390625,0.015625,0,0
+Sigmoid_Config1_Approx_100_10_4bit_A_cir6,2,0.125,0.25,0,0.0853912563829966,2,0.03125,0.0078125,0.03125,0,0
