@@ -5,6 +5,7 @@ Contains hardware-efficient implementations of Activation functions that can be 
 The activation functions Binary step (Bstep), Sigmoid, Gaussian, tanh, Rectified Linear Unit (ReLU), Gaussian Error Linear Unit (GeLU), Softplus are implemented. All the functions contain circuits quantised from 4bit to 8bit word length.
 
 Four different fixed point configuration are provided with different range-precision tradoffs : 
+
 Configuration 1 for all functions :
 ![plot](./images/config1.png)
 
