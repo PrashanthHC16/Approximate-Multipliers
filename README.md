@@ -7,14 +7,19 @@ The activation functions Binary step (Bstep), Sigmoid, Gaussian, tanh, Rectified
 Four different fixed point configuration are provided with different range-precision tradoffs : 
 Configuration 1 for all functions :
 ![plot](./images/config1.png)
+
 Configuration 2 for Gaussian :
 ![plot](./images/config2gaussian.png)
+
 Configuration 2 for Sigmoid :
 ![plot](./images/config2Sigmoid.png)
+
 Configuration 2 for tanh :
 ![plot](./images/config2tanh.png)
+
 Configuration 3 for all functions :
 ![plot](./images/config3.png)
+
 Configuration 4 for all functions :
 ![plot](./images/config4.png)
 
