@@ -6,17 +6,17 @@ The activation functions Binary step (Bstep), Sigmoid, Gaussian, tanh, Rectified
 
 Four different fixed point configuration are provided with different range-precision tradoffs : 
 Configuration 1 for all functions :
-![plot](./images/config1.eps)
+![plot](./images/config1.png)
 Configuration 2 for Gaussian :
-![plot](./images/config2gaussian.eps)
+![plot](./images/config2gaussian.png)
 Configuration 2 for Sigmoid :
-![plot](./images/config2Sigmoid.eps)
+![plot](./images/config2Sigmoid.png)
 Configuration 2 for tanh :
-![plot](./images/config2tanh.eps)
+![plot](./images/config2tanh.png)
 Configuration 3 for all functions :
-![plot](./images/config3.eps)
+![plot](./images/config3.png)
 Configuration 4 for all functions :
-![plot](./images/config4.eps)
+![plot](./images/config4.png)
 
 The folders contain error characteristics reports and hardware reports for all the circuits. A error plot is also provided to visualize the circuit output, location of erroneous output and the histogram of error values.
 
