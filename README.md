@@ -8,13 +8,23 @@ The activation functions Binary step (Bstep), Sigmoid, Gaussian, tanh, Rectified
 
 The library contains the circuits shown in following hardware resource vs MAE reports :
 
+8bit circuits : 
+
 ![plot](./images/8bit.png)
+
+7bit circuits : 
 
 ![plot](./images/7bit.png)
 
+6bit circuits : 
+
 ![plot](./images/6bit.png)
 
+5bit circuits : 
+
 ![plot](./images/5bit.png)
+
+4bit circuits : 
 
 ![plot](./images/4bit.png)
 
