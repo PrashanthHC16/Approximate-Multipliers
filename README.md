@@ -6,6 +6,18 @@ The activation functions Binary step (Bstep), Sigmoid, Gaussian, tanh, Rectified
 
 ![plot](./images/activationFunctions.PNG)
 
+The library contains the circuits shown in following hardware resource vs MAE reports :
+
+![plot](./images/8bit.PNG)
+
+![plot](./images/7bit.PNG)
+
+![plot](./images/6bit.PNG)
+
+![plot](./images/5bit.PNG)
+
+![plot](./images/4bit.PNG)
+
 All the functions contain circuits implementing quantised activation function of word length 4bit to 8bit. Round-to-floor quantization is used to uniformly
 quantize all continous functioons to the fixed point data. An example of the qunatization scheme :
 
