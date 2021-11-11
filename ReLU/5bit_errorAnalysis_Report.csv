@@ -1,5 +1,0 @@
-Circuit,Error_Count,Error_Probability,max_Absolute_error,min_Absolute_error,Standard_deviation,Hamming_distance,Mean_Absolute_error,Mean_Square_error,Mean_Relative_error,Median_Absolute_error,Mode_Absolute_error
-ReLU_Config1_Approx_10_10_SL_5bit_cir0,0,0,0,0,0,0,0,0,0,0,0
-ReLU_Config3_Approx_10_10_SL_5bit_cir2,6,0.1875,2,0,0.668826307072515,6,0.265625,0.50390625,0.216443452380952,0,0
-ReLU_Config2_Approx_10_10_SL_5bit_cir2,6,0.1875,4,0,1.33765261414503,6,0.53125,2.015625,0.307589285714286,0,0
-ReLU_Config1_Approx_10_10_SL_5bit_cir2,6,0.1875,8,0,2.67530522829006,6,1.0625,8.0625,0.323214285714286,0,0

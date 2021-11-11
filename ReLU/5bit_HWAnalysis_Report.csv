@@ -1,5 +1,0 @@
-Circuit,Area_um_2_,Total_Power_nW_,Delay_ps__Critical_Path
-ReLU_Config1_Approx_10_10_SL_5bit_cir0,5.472,85.455,68
-ReLU_Config3_Approx_10_10_SL_5bit_cir2,6.156,65.514,187
-ReLU_Config2_Approx_10_10_SL_5bit_cir2,6.156,65.514,187
-ReLU_Config1_Approx_10_10_SL_5bit_cir2,6.156,65.514,187
